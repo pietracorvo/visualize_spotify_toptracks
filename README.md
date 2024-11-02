@@ -1,5 +1,7 @@
 # Use Spotify API to get personal X top tracks and visualize them
 
+[Live version](https://htmlpreview.github.io/?https://github.com/pietracorvo/visualize_spotify_toptracks/blob/master/spotify_apidashboard_webpage.html) of the single page application.
+
 
 NOTE spotify also provides big datasets for research https://research.atspotify.com/datasets/
 
