@@ -47,6 +47,7 @@ here is also some nice stuff https://www.tableau.com/data-music
 - https://public.tableau.com/app/profile/david.pires/viz/Spotify2/TracksAnalysis
 - https://public.tableau.com/app/profile/robert.janezic/viz/ALTNATION/AltNation
 - https://public.tableau.com/app/profile/pradeepkumar.g/viz/WhatsyourfavouriteMusicGenre/iron_viz_2019
+- ...
 
 
 Visulaisation suggetsions by Claude:
