@@ -1,7 +1,7 @@
 # Use Spotify API to get personal X top tracks and visualize them
 
-[Live version](https://pietracorvo.github.io/visualize_spotify_toptracks) of the single page application.
-TODO github pages not working because REDIRECT_URI hardcoded to 'http://127.0.0.1:5500/spotify_apidashboard_webpage.html
+[Live version](https://pietracorvo.github.io/visualize_spotify_toptracks) of the single page application.  
+TODO github pages not working because REDIRECT_URI hardcoded to 'http://127.0.0.1:5500/spotify_apidashboard_webpage.html and CLIENT_ID also hardcoded
 
 
 NOTE spotify also provides big datasets for research https://research.atspotify.com/datasets/
