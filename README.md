@@ -1,7 +1,8 @@
 # Use Spotify API to get personal topX tracks and visualize them
 
 [Live version](https://pietracorvo.github.io/visualize_spotify_toptracks) of the single page application.  
-TODO github pages not working because REDIRECT_URI hardcoded to 'http://127.0.0.1:5500/spotify_apidashboard_webpage.html and CLIENT_ID also hardcoded
+TODO github pages not working because REDIRECT_URI hardcoded to 'http://127.0.0.1:5500/spotify_apidashboard_webpage.html and CLIENT_ID also hardcoded  
+I think I have to do verification more like mentioned in this bounty here https://replit.com/bounties/@AfricanFractal/build-a-web-app-for
 
 
 NOTE spotify also provides big datasets for research https://research.atspotify.com/datasets/
